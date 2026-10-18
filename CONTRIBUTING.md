@@ -11,7 +11,7 @@ This guide applies to all my repositories. If a repository has its own `CONTRIBU
 
 - Before opening an issue, please check whether a similar one already exists, including closed ones.
 - Use the issue template and fill in as much as you can.
-- **Do not report security vulnerabilities in a public issue.** Follow the instructions in [SECURITY.md](https://github.com/otTATto/.github/blob/main/SECURITY.md) instead.
+- **DO NOT report security vulnerabilities in a PUBLIC issue.** Follow the instructions in [SECURITY.md](https://github.com/otTATto/.github/blob/main/SECURITY.md) instead.
 
 ## Pull Requests
 
